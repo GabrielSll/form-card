@@ -1,0 +1,10 @@
+.bg-front {
+    background-image: url("../../images/bg-card-front.png");
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 24%;
+    height: 25%;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}

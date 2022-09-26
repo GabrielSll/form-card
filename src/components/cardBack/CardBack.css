@@ -1,0 +1,9 @@
+.bg-back {
+    background-image: url("../../images/bg-card-back.png");
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 25%;
+    position: absolute;
+    left: 14%;
+    top: 44%;
+}
