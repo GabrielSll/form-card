@@ -2,12 +2,15 @@ import React from 'react'
 import './CardBack.css'
 
 
-export default function CardBack() {
-  return (
-    <div>
-      <section className='bg-back'>
+ const CardBack = ({ codigo }) => {
 
-      </section>
+  return (
+    <div className='card-back'> 
+        <p className='cvc'>
+          {codigo}
+        </p>
     </div>
   )
 }
+
+export default CardBack;

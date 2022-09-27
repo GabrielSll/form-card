@@ -1,10 +1,16 @@
-.bg-front {
+.logo_cartao {
+    margin-left: 30px;
+}
+
+.card-front {
     background-image: url("../../images/bg-card-front.png");
     background-repeat: no-repeat;
-    background-position: cover;
-    width: 24%;
-    height: 25%;
-    position: absolute;
-    left: 10%;
-    top: 15%;
+    width: 61%;
+    height: 26%;
+    margin-right: 18%;
+    padding-top: 24px;
+    border: 1px solid red;
 }
+
+
+
